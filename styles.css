@@ -29,6 +29,9 @@ main{
 	justify-content:center;
 	align-items:center;
 }
+h2{
+	color:white;
+}
 audio{
 	margin-bottom:2rem;
 }
